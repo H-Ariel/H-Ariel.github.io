@@ -1,0 +1,38 @@
+body {
+	background: linear-gradient(to left, #49ee11, #14eb61);
+}
+
+#quote-box {
+	width: 500px;
+	text-align: center;
+	font-family: sans-serif;
+	background-color: #2f9cd0;
+	margin: 50px auto;
+	padding: 12px;
+	border-radius: 20px;
+}
+
+#text {
+	font-size: 50px;
+	font-weight: bold;
+}
+
+#author {
+	font-size: 25px;
+	font-style: italic;
+}
+
+#new-quote, #tweet-quote {
+	width: 20%;
+	height: 30px;
+	font-size: 12px;
+	margin: 0 15px;
+}
+
+#tweet-quote {
+	color: #ddd;
+}
+
+#tweet-quote:hover {
+	color: #222;
+}
