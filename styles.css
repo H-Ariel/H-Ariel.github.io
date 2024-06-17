@@ -83,6 +83,7 @@ header {
 #welcome h1 {
 	font-size: 70px;
 }
+
 #welcome p {
 	font-size: 27px;
 	font-style: italic;
@@ -138,10 +139,12 @@ header {
 	text-align: center;
 	background: linear-gradient(60deg, #f87607, #e2991d);
 }
+
 #contact h1 {
 	font-family: Consolas, sans-serif;
 	font-size: 50px;
 }
+
 #contact a {
 	font-family: Consolas, sans-serif;
 	font-size: 30px;
@@ -153,15 +156,13 @@ header {
 }
 
 #contact a:hover {
-    background-color: var(--text-color);
-    color: #e2991d;
+	background-color: var(--text-color);
+	color: #e2991d;
 }
 
 
 /* TODO: media query for phones */
 
 @media only screen and (max-height:500px) {
-	:root {
-		
-	}
+	:root {}
 }
