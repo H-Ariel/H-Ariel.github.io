@@ -1,0 +1,79 @@
+[
+    {
+        "title": "Captain Claw",
+        "url": "https://github.com/H-Ariel/MyClaw",
+        "image": "./screenshots/myclaw.jpg",
+        "alt": "MyClaw screenshot",
+        "type": "game"
+    },
+    {
+        "title": "Tasks and Engineers Management System",
+        "url": "https://github.com/Azriel-Ehrlich/dotNet5784_2539_0644/",
+        "image": "./screenshots/tasksmanagement.png",
+        "alt": "Tasks Management screenshot",
+        "type": "app"
+    },
+    {
+        "title": "Trivia Game",
+        "url": "https://github.com/H-Ariel/Trivia",
+        "image": "./screenshots/trivia.jpg",
+        "alt": "Trivia screenshot",
+        "type": "game"
+    },
+    {
+        "title": "DNS Server",
+        "url": "https://github.com/H-Ariel/MyDNSServer",
+        "image": "./screenshots/dnsserver.jpg",
+        "alt": "DNS server screenshot",
+        "type": "app"
+    },
+    {
+        "title": "Python Virtual Assistant",
+        "url": "https://github.com/H-Ariel/pyva",
+        "image": "./screenshots/pyva.jpg",
+        "alt": "pyva screenshot",
+        "type": "app"
+    },
+    {
+        "title": "Tasks Management App",
+        "url": "https://github.com/H-Ariel/TasksApp",
+        "image": "./screenshots/tasksapp.jpeg",
+        "alt": "Tasks screenshot",
+        "type": "web"
+    },
+    {
+        "title": "Random Quote Machine",
+        "url": "https://codepen.io/Ariel-Halili/full/RwvxaYw",
+        "image": "./screenshots/random-quote-machine.jpg",
+        "alt": "Random Quote Machine screenshot",
+        "type": "web"
+    },
+    {
+        "title": "Markdown Previewer",
+        "url": "https://codepen.io/Ariel-Halili/full/bGzawQX",
+        "image": "./screenshots/markdown-previewer.jpg",
+        "alt": "Markdown Previewer screenshot",
+        "type": "web"
+    },
+    {
+        "title": "Calculator",
+        "url": "https://codepen.io/Ariel-Halili/full/yLZvaKB",
+        "image": "./screenshots/calculator.jpg",
+        "alt": "Calculator screenshot",
+        "type": "web"
+    },
+    {
+        "title": "25+5 Clock",
+        "url": "https://codepen.io/Ariel-Halili/full/QWYQeaz",
+        "image": "./screenshots/25+5 clock.jpg",
+        "alt": "25+5 Clock screenshot",
+        "type": "web"
+    },
+    {
+        "title": "Choropleth Map",
+        "url": "https://codepen.io/Ariel-Halili/full/JjxZdgr",
+        "image": "./screenshots/choropleth-map.jpg",
+        "alt": "Choropleth Map screenshot",
+        "type": "web"
+    }
+]
