@@ -181,3 +181,29 @@ body {
 	overflow: hidden;
 	display: none;
 }
+
+.view-on-mobile {
+	visibility: hidden;
+}
+
+/* Media Query for Mobile */
+@media (max-width: 768px) {
+	.container {
+		display: block;
+		flex-direction: column;
+	}
+
+	.sidebar {
+		width: 100%;
+		position: relative;
+	}
+
+	.view-on-mobile {
+		visibility: visible;
+	}
+
+	.content {
+		margin-left: 0;
+		width: 100%;
+	}
+}
