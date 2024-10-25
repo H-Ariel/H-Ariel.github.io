@@ -2,15 +2,29 @@
     {
         "title": "Captain Claw",
         "url": "https://github.com/H-Ariel/MyClaw",
-        "image": "./screenshots/myclaw.jpg",
+        "image": "https://github.com/H-Ariel/MyClaw/blob/master/screenshot.jpg?raw=true",
         "alt": "MyClaw screenshot",
         "type": "game"
     },
     {
         "title": "Tasks and Engineers Management System",
-        "url": "https://github.com/Azriel-Ehrlich/dotNet5784_2539_0644/",
-        "image": "./screenshots/tasksmanagement.png",
+        "url": "https://github.com/H-Ariel/dotNet5784_2539_0644",
+        "image": "https://github.com/H-Ariel/dotNet5784_2539_0644/blob/master/screenshot.png?raw=true",
         "alt": "Tasks Management screenshot",
+        "type": "app"
+    },
+    {
+        "title": "Tasks Management App",
+        "url": "https://github.com/H-Ariel/TasksApp",
+        "image": "https://github.com/H-Ariel/TasksApp/blob/main/screenshot.jpeg?raw=true",
+        "alt": "Tasks screenshot",
+        "type": "web"
+    },
+    {
+        "title": "Ray Render 3D",
+        "url": "https://github.com/H-Ariel/RayRender3D",
+        "image": "https://github.com/H-Ariel/RayRender3D/blob/main/teapot.png?raw=true",
+        "alt": "Render 3D models",
         "type": "app"
     },
     {
@@ -33,13 +47,6 @@
         "image": "./screenshots/pyva.jpg",
         "alt": "pyva screenshot",
         "type": "app"
-    },
-    {
-        "title": "Tasks Management App",
-        "url": "https://github.com/H-Ariel/TasksApp",
-        "image": "./screenshots/tasksapp.jpeg",
-        "alt": "Tasks screenshot",
-        "type": "web"
     },
     {
         "title": "Random Quote Machine",
